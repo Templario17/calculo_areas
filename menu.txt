@@ -1,0 +1,5 @@
+1. Area del cuadrado
+2. Area del circulo
+3. Area del triangulo
+4. Area del rectangulo
+5. salir del script
